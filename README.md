@@ -33,8 +33,3 @@ The goal is to assess whether deep learning models, particularly CNNs, can captu
 - 📉 Performance comparison with classical ML models: Logistic Regression, SVM, and XGBoost.
 - 🧠 Achieved significantly better **accuracy and generalization** using CNN vs. traditional methods.
 
----
-
-## 📸 Project Workflow
-
-![Project workflow]((https://github.com/sakshi-172/DL-Based-Distinguisher-for-Cipher-PRESENT/blob/main/Project%20workflow.png))
