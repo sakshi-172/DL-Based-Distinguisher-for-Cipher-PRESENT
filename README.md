@@ -37,4 +37,4 @@ The goal is to assess whether deep learning models, particularly CNNs, can captu
 
 ## 📸 Project Workflow
 
-![Workflow Diagram](images/workflow-diagram.png)
+![Workflow Diagram]([images/workflow-diagram.png](https://github.com/sakshi-172/DL-Based-Distinguisher-for-Cipher-PRESENT/blob/main/Project%20workflow.png))
